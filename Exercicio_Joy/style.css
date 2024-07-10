@@ -37,19 +37,14 @@ body {
 header {
     background: var(--primary-color);
     color: #2b2b2b;
-    padding-top: 10px;
-    min-height: 30px;
-    border-bottom: 3px solid var(--primary-color);
     text-align: center;
 }
 
 footer {
     background: var(--footer-background);
     color: var(--footer-text);
-    padding-top: 10px;
-    min-height: 70px;
-    border-top: 3px solid var(--footer-background);
     text-align: center;
+    padding: 20px;
     margin-top: 10px;
 }
 
@@ -61,21 +56,39 @@ nav {
 nav > a {
     text-decoration: none;
     color: var(--nav-link-color);
-    margin: 35px 10px;
-    transition-duration: 0.5s;
+    padding: 30px
 }
 
 main {
     background-color: var(--primary-color);
-    padding: 20px;
-    margin: 0;
-    text-align: center;
+    margin: 10px;
 }
 
 p {
     text-align: justify;
-    max-width: 700px;
+    max-width: 620px;
     margin: 0 auto;
     margin-top: 10px;
     text-indent: 2em;
 }
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.localizacao {
+    margin: 10px
+
+}
+
+.importancia {
+    margin: 10px
+
+}
+
+.lcuriosidades {
+    margin: 10px
+
+}
+

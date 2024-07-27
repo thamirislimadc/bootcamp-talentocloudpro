@@ -8,11 +8,13 @@
 - Modelo: aulas ao vivo e assíncronas
 - Carga horária: 300h
 
+## Projeto Integrador
+- [14-Bits](https://github.com/VitorPandini/14Bits)
+
 ## Exercícios de destaque
 - [Aventureiros.BR](https://thamirislimadc.github.io/bootcamp-talentocloudpro/Projeto_Introducao/index.html)
 - [Marco Zero de Recife](https://thamirislimadc.github.io/bootcamp-talentocloudpro/Exercicio_Joy/index.html)
 - [Eurotour](https://thamirislimadc.github.io/bootcamp-talentocloudpro/Estrutura_Base/index.html)
-- 
 
 ## Links úteis
 - [Inscrição para o bootcamp](https://pages.prozeducacao.com.br/lp-proz-tecnologia-talento-cloud)
